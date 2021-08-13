@@ -1,0 +1,1 @@
+istioctl operator init --watchedNamespaces=istio-poc
